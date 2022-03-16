@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32210.238
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FindTheBestDeal", "ConsoleApp2\FindTheBestDeal.csproj", "{FC102967-8E32-411A-AF03-2AD35EE3408A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FindTheBestDealTest", "FindTheBestDealTest\FindTheBestDealTest.csproj", "{BD3DE520-EEC9-431A-B197-CEECDCC694C7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FC102967-8E32-411A-AF03-2AD35EE3408A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FC102967-8E32-411A-AF03-2AD35EE3408A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FC102967-8E32-411A-AF03-2AD35EE3408A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FC102967-8E32-411A-AF03-2AD35EE3408A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BD3DE520-EEC9-431A-B197-CEECDCC694C7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BD3DE520-EEC9-431A-B197-CEECDCC694C7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BD3DE520-EEC9-431A-B197-CEECDCC694C7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BD3DE520-EEC9-431A-B197-CEECDCC694C7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9D457B97-67C7-4F06-93BC-4DC44F25D918}
+	EndGlobalSection
+EndGlobal

@@ -4,6 +4,10 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
+// Test assignment: (my interpretation)
+// Find the most possible profitable deal buy-sell in a price history array.
+// For example, buy for 2 and sell later for 10 gives 8. It would be the most
+// profitable deal.
 namespace FindTheBestDeal
 {
     public class Program
